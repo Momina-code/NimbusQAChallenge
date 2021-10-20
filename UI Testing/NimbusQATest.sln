@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimbusQATest", "NimbusQATest.csproj", "{CBB42F8F-938B-44E5-A8F6-FA8F31365136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB42F8F-938B-44E5-A8F6-FA8F31365136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB42F8F-938B-44E5-A8F6-FA8F31365136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB42F8F-938B-44E5-A8F6-FA8F31365136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB42F8F-938B-44E5-A8F6-FA8F31365136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D7A9C5-D432-4BA9-8E81-2FDD4F05789B}
+	EndGlobalSection
+EndGlobal
